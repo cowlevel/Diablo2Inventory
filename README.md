@@ -1,5 +1,5 @@
 # Diablo2Inventory
-Increase your Diablo 2 LOD Inventory
+Increase your Diablo 2 LOD Inventory. Tested in Diablo 2 1.13c.
 
 [Download the needed file](https://drive.google.com/open?id=1bhooKAQj_iMjFjlLEj_NzaAlxiBhXFtj)  
 [Installation instructions - no PlugY](https://www.youtube.com/watch?v=IU68OCeFr_I)  
