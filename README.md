@@ -15,7 +15,7 @@ Increase your Diablo 2 LOD Inventory. Tested in Diablo 2 1.13c.
 3. Right click the 'Diablo II' then select 'Create Shortcut'  
 4. Right click the 'Diablo II - Shortcut' then select 'Properties'  
 5. In the 'Target:' add -w -direct then click the button 'Apply' then 'OK'  
-   - ![NO PLUGY](https://i.imgur.com/mLPEsgu.jpg)
+   - ![NO PLUGY](https://i.imgur.com/3wDyoRN.jpg)
 6. Double click the 'Diablo II - Shortcut' and enjoy.    
 
 ## **Instructions (USING INSTALLED PLUGY)**
@@ -24,7 +24,7 @@ Increase your Diablo 2 LOD Inventory. Tested in Diablo 2 1.13c.
 3. Right click the 'PlugY' then select 'Create Shortcut'  
 4. Right click the 'PlugY - Shortcut' then select 'Properties'  
 5. In the 'Target:' add -w -direct then click the button 'Apply' then 'OK'
-   - ![USING INSTALLED PLUGY](https://i.imgur.com/TH3MtNF.jpg)
+   - ![USING INSTALLED PLUGY](https://i.imgur.com/g9KOrXv.jpg)
 6. Double click the 'PlugY - Shortcut' and enjoy.    
 
 ## **Instructions (USING INSTALLED D2SE)**
